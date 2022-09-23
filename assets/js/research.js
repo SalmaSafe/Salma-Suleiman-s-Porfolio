@@ -4,9 +4,9 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Drivers of tree cover loss by region 2001-2010",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "World Resources Institute",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2020,

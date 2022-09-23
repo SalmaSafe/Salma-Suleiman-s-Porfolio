@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "Day 1",
       description: "description",
-      background_image: "assets/images/travel/trip1/street.jpg"
+      background_image: "assets/images/travel/trip1/iu.jpg"
     },
     {
       day: "Day 2",
@@ -17,17 +17,17 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       day: "Day 3",
       description: "description",
-      background_image: "assets/images/travel/trip1/lotus_temple.jpg"
+      background_image: "assets/images/travel/trip1/mormon.jpg"
     },
     {
       day: "Day 4",
       description: "description",
-      background_image: "assets/images/travel/trip1/old_fort.jpg"
+      background_image: "assets/images/travel/trip1/museum.webp"
     },
     {
       day: "Day 5",
       description: "description",
-      background_image: "assets/images/travel/trip1/red_fort.jpg"
+      background_image: "assets/images/travel/trip1/indie park.jpg"
     }
   ];
 
